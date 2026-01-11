@@ -19,3 +19,7 @@ Small HTML/CSS/JS project for practicing Git and GitHub workflow (commits, branc
 
 ## License
 MIT License
+
+## Pages
+- Home: index.html
+- About: about.html
